@@ -1,7 +1,7 @@
 from datetime import datetime,timedelta
-from dayy39data_manager import DataManager
-from dayy39flight_search import FlightSearch
-from dayy39notification_manager import NotificationManager
+from data_manager import DataManager
+from flight_search import FlightSearch
+from notification_manager import NotificationManager
 
 ORIGIN_CITY_IATA = "LON"
 
